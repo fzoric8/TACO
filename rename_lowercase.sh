@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the directory path
-directory="./data_transformed/images/train"
+directory="./data_transformed/images/test"
 
 # Move to the directory
 cd "$directory"
